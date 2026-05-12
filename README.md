@@ -1,5 +1,5 @@
 # 📥 Download Links
-Generated on: Tue May 12 19:11:35 UTC 2026
+Generated on: Tue May 12 19:18:07 UTC 2026
 
 - [Download NA-1851-2026-03-15-Final_[NA-1851-2026-03-15-Final].mp3.z01](https://github.com/peenweinersteinfinance-eng/experimental-downloader/raw/videos/videos/NA-1851-2026-03-15-Final_%5BNA-1851-2026-03-15-Final%5D.mp3.z01)
 - [Download NA-1851-2026-03-15-Final_[NA-1851-2026-03-15-Final].mp3.z02](https://github.com/peenweinersteinfinance-eng/experimental-downloader/raw/videos/videos/NA-1851-2026-03-15-Final_%5BNA-1851-2026-03-15-Final%5D.mp3.z02)
@@ -25,3 +25,6 @@ Generated on: Tue May 12 19:11:35 UTC 2026
 - [Download NA-1858-2026-04-09-Final_[NA-1858-2026-04-09-Final].mp3.z01](https://github.com/peenweinersteinfinance-eng/experimental-downloader/raw/videos/videos/NA-1858-2026-04-09-Final_%5BNA-1858-2026-04-09-Final%5D.mp3.z01)
 - [Download NA-1858-2026-04-09-Final_[NA-1858-2026-04-09-Final].mp3.z02](https://github.com/peenweinersteinfinance-eng/experimental-downloader/raw/videos/videos/NA-1858-2026-04-09-Final_%5BNA-1858-2026-04-09-Final%5D.mp3.z02)
 - [Download NA-1858-2026-04-09-Final_[NA-1858-2026-04-09-Final].mp3.zip](https://github.com/peenweinersteinfinance-eng/experimental-downloader/raw/videos/videos/NA-1858-2026-04-09-Final_%5BNA-1858-2026-04-09-Final%5D.mp3.zip)
+- [Download NA-1859-2026-04-12-Final_[NA-1859-2026-04-12-Final].mp3.z01](https://github.com/peenweinersteinfinance-eng/experimental-downloader/raw/videos/videos/NA-1859-2026-04-12-Final_%5BNA-1859-2026-04-12-Final%5D.mp3.z01)
+- [Download NA-1859-2026-04-12-Final_[NA-1859-2026-04-12-Final].mp3.z02](https://github.com/peenweinersteinfinance-eng/experimental-downloader/raw/videos/videos/NA-1859-2026-04-12-Final_%5BNA-1859-2026-04-12-Final%5D.mp3.z02)
+- [Download NA-1859-2026-04-12-Final_[NA-1859-2026-04-12-Final].mp3.zip](https://github.com/peenweinersteinfinance-eng/experimental-downloader/raw/videos/videos/NA-1859-2026-04-12-Final_%5BNA-1859-2026-04-12-Final%5D.mp3.zip)
